@@ -2,7 +2,7 @@
 
 ![project template](https://img.shields.io/badge/project-template-blue.svg?style=flat-square)
 
-> A simple elm starter example
+> A simple elm starter example.
 
 ## Getting started
 ```sh
